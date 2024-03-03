@@ -1,0 +1,12 @@
+[package]
+name = "market_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+binance = { git = "https://github.com/wisespace-io/binance-rs.git" }
+serde = "1.0.197"
+reqwest = "0.11.24"
+bitfinex = { git = "https://github.com/wisespace-io/bitfinex-rs.git" }

@@ -1,0 +1,4 @@
+SymbolPrice { symbol: "BTCUSDT", price: 62324.49 }
+AveragePrice { mins: 5, price: 62341.29118196 }
+Bid Price: 62330.41, Ask Price: 62330.42
+Open Price: 61953.49, Higher Price: 62640.18, Lower Price: 61320.0
